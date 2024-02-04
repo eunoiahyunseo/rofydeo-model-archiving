@@ -1,3 +1,3 @@
-[submodule "models/DDPM/DDPM_pytorch_impl"]
-	path = models/DDPM/DDPM_pytorch_impl
-	url = https://github.com/lucidrains/denoising-diffusion-pytorch
+[submodule "models/DDPM/ddpm_pytorch_impl"]
+	path = models/DDPM/ddpm_pytorch_impl
+	url = https://github.com/eunoiahyunseo/denoising-diffusion-pytorch.git
